@@ -1,0 +1,28 @@
+.up {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+h2 {
+    font-size: 30px;
+}
+
+
+
+.inp {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid gray;
+border-radius: 15px ;
+padding: 10px 10px;
+}
+
+.inp input {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    padding: 5px 30px;
+}
